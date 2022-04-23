@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+    
+ background: linear-gradient(#ff9933 45%, 	#ff6633 55%)
+    
+}
+.menu{
+    list-style: none;
+    float: right;
+    cursor: pointer;
+}
+
+div{
+   font-size: 35px;
+    
+}
+
+section{
+    
+    font-style: oblique;
+    text-align: center;
+}
+
+img{
+  border-width:thick;
+    
+    
+}
+
+img:hover{
+    
+    transform: scale(0.9);
+}
+
+.link{
+    
+    color: crimson;
+    
+}
+.link:hover{
+    
+    background-color: lightsalmon;
+}
